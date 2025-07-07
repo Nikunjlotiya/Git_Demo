@@ -1,1 +1,2 @@
 file2 is here
+file2 changes
